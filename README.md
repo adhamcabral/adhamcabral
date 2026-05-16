@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hi , I'm Adham Cabral </b><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3ZmenNobWJrdmlnNzNpeG9ubTRkbWxiMmoxcXF5dGVpemhpZGt3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Adham Cabral </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
 <br>
@@ -7,7 +7,7 @@
 
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://media.tenor.com/CCNdjkJLSUYAAAAj/learn-learning.gif" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://github.com/adhamcabral/adhamcabral/blob/main/images/eu.png?raw=true" width = 250px></picture>
 
