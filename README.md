@@ -7,7 +7,7 @@
 
 
 	
-## <picture><img src = "https://media.tenor.com/mTz7WCbH92oAAAAi/book-transparent.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3poMHhvNmc3a2h0cTA4dXBianp5N2lscHQ1N2RjM25ueHowM3owOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9udYDMLdVzBAFuWkmF/giphy.gif" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://github.com/adhamcabral/adhamcabral/blob/main/images/eu.png?raw=true" width = 250px></picture>
 
