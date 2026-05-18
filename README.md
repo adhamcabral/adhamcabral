@@ -1,101 +1,64 @@
+<div align="center">
 
-<h1 align="center"><b>Hi , I'm Adham Cabral </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+# Adham Cabral
 
+**Full-Stack Developer · CTF Player · Security Enthusiast**
 
-<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-adhamcabral-405DE6?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/adhamcabral)
+[![Twitter](https://img.shields.io/badge/Twitter-adhamcabral-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/adhamcabral)
+[![Email](https://img.shields.io/badge/Email-adhamcabral@hotmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:adhamcabral@hotmail.com)
 
-
-
-	
-## <picture><img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3poMHhvNmc3a2h0cTA4dXBianp5N2lscHQ1N2RjM25ueHowM3owOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9udYDMLdVzBAFuWkmF/giphy.gif" width = 50px></picture> **About me**
-
-<picture> <img align="right" src="https://github.com/adhamcabral/adhamcabral/blob/main/images/eu.png?raw=true" width = 250px></picture>
-
-<br>
-
-- A passionate Self-taught full-stack developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
-<p align="center">
-
-- **Back-End Development**:
-
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-	![C#](https://img.shields.io/badge/C%23%20-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-    ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-    ![Nodejs](https://img.shields.io/badge/Node.Js-darkgreen.svg?style=for-the-badge&logo=node.js&logoColor=white)
-    ![Typescript](https://img.shields.io/badge/Typescript-blue.svg?style=for-the-badge&logo=typescript&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-- **Front-End Development**:
-
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
-   ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-   ![Tailwind Css](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-   ![Typescript](https://img.shields.io/badge/Typescript-blue.svg?style=for-the-badge&logo=typescript&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-- **Tools**:
-
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  	![Github Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
-  	![Ollama](https://img.shields.io/badge/ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-  	![Openai API](https://img.shields.io/badge/Openai_API-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-  	![Model Context Protocol](https://img.shields.io/badge/MCP-D97757?style=for-the-badge&logo=claude&logoColor=white)
-
-- **DevOps**:
-
-    ![Docker](https://img.shields.io/badge/docker-blue.svg?style=for-the-badge&logo=docker&logoColor=white)
-	![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-	![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-	![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-	![Arch-Linux](https://img.shields.io/badge/Arch%20Linux-FCC624?style=for-the-badge&logo=archlinux&logoColor=black)
-	![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-</p>
-<br>
-
-
------
-
-
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
-<div align='left'>
-<ul>
-
-<li>
-<a href="https://linkedin.com/in/adhamcabral" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  adhamcabral-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-  <a href="https://twitter.com/adhamcabral" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  adhamcabral-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="mailto:adhamcabral@hotmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  adhamcabral-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-</ul>
 </div>
 
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
+
+## About
+
+A self-taught full-stack developer with an interest in cybersecurity. I often build AI-integrated apps in different ways, exploring the possibilities of new technologies every day.
+
+Furthermore, I have a home server where I can test new projects every day and practice learning new technologies.
+
+---
+
+## Skills
+
+**Back-End**
+
+![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Front-End**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-663399?style=flat-square&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+**AI & Integrations**
+
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-74aa9c?style=flat-square&logo=openai&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-D97757?style=flat-square&logo=claude&logoColor=white)
+
+---
+
+## CTF & Security
+
+I play CTF competitions regularly on platforms like:
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://hackthebox.com)
+
+Areas of interest: **Web Exploitation · Cryptography · Linux Privilege Escalation **
