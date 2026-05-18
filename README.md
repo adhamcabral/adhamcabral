@@ -26,13 +26,15 @@
 
 <p align="center">
 
-- **Languages**:
-    
-    ![C#](https://img.shields.io/badge/C%23%20-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+- **Back-End Development**:
 
-<br>   
-    
+    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+	![C#](https://img.shields.io/badge/C%23%20-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+    ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+    ![Nodejs](https://img.shields.io/badge/Node.Js-darkgreen.svg?style=for-the-badge&logo=node.js&logoColor=white)
+    ![Typescript](https://img.shields.io/badge/Typescript-blue.svg?style=for-the-badge&logo=typescript&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
 - **Front-End Development**:
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -40,14 +42,17 @@
    ![Typescript](https://img.shields.io/badge/Typescript-blue.svg?style=for-the-badge&logo=typescript&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-
 - **Tools**:
 
-    ![Nodejs](https://img.shields.io/badge/Node.Js-darkgreen.svg?style=for-the-badge&logo=node.js&logoColor=white)
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  	![Ollama](https://img.shields.io/badge/ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+
+- **DevOps**:
+
     ![Docker](https://img.shields.io/badge/docker-blue.svg?style=for-the-badge&logo=docker&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Arch%20Linux-FCC624?style=for-the-badge&logo=archlinux&logoColor=black) 
+	![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+	![Linux](https://img.shields.io/badge/Arch%20Linux-FCC624?style=for-the-badge&logo=archlinux&logoColor=black) 
 
 <br>
 
