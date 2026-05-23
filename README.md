@@ -61,4 +61,4 @@ I play CTF competitions regularly on platforms like:
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://hackthebox.com)
 
-Areas of interest: **Web Exploitation · Cryptography · Linux Privilege Escalation **
+
