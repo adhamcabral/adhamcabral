@@ -14,7 +14,7 @@
 
 ## About
 
-A self-taught full-stack developer with an interest in cybersecurity. I often build AI-integrated apps in different ways, exploring the possibilities of new technologies every day.
+A brazilian self-taught full-stack developer with an interest in cybersecurity. I often build AI-integrated apps in different ways, exploring the possibilities of new technologies every day.
 
 Furthermore, I have a home server where I can test new projects every day and practice learning new technologies.
 
